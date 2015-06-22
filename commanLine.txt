@@ -1,0 +1,13 @@
+history 
+    1 $ mkdir checkpoint_exercise
+    2 $ cd checkpoint_exercise/
+    3 $ touch bloc_cl_checkpoint.txt
+    4 $ nano bloc_cl_checkpoint.txt 
+    5 $ cat bloc_cl_checkpoint.txt 
+    6 $ mv bloc_cl_checkpoint.txt  cl_checkpoint.txt
+    7 $ ls
+    8 $ cd
+    9 $ ls
+   10 $ cd checkpoint_exercise/
+   11 $ cat cl_checkpoint.txt 
+   12 $ history 
